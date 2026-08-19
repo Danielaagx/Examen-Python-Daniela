@@ -1,0 +1,9 @@
+[
+    {
+        "id_herramienta": "HR101",
+        "nombre": "Podadora",
+        "fecha_inicio_reparacion": "01/06/2026",
+        "fecha_estimada_finalizacion": "08/06/2026",
+        "observaciones": "BUEN ESTADO"
+    }
+]
